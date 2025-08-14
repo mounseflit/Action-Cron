@@ -3,7 +3,7 @@ import requests
 import datetime
 
 def ping_backend():
-    url = "https://keep-me-alive.org/ping" #replace this url with your backend url & endpoint
+    url = "https://rag-api-807h.onrender.com/file_summary" #replace this url with your backend url & endpoint
     
     try:
         print(f"{datetime.datetime.now()}: Pinging {url}")
