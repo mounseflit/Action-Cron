@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # Add as many URLs as you want here
 URLS = [
     "https://rag-api-807h.onrender.com/file_summary",
-    # "https://your-second-service.onrender.com/health",
+    "https://eu-trade-scraper-api.onrender.com/docs",
     # "https://another-api.example.com/ping",
 ]
 
