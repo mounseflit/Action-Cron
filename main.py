@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 URLS = [
     "https://rag-api-807h.onrender.com/file_summary",
     "https://eu-trade-scraper-api.onrender.com/docs",
-    # "https://another-api.example.com/ping",
+    "https://watcher-fn3v.onrender.com/docs",
 ]
 
 def ping_backend(url: str):
