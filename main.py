@@ -13,8 +13,6 @@ import requests
 URLS: List[str] = [
     "https://rag-api-807h.onrender.com/file_summary",
     "https://eu-trade-scraper-api.onrender.com/",
-    "https://watcher-fn3v.onrender.com/",
-    "https://veille-demo.onrender.com/",
     "https://cityquest.onrender.com/"
 ]
 
