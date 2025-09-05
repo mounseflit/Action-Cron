@@ -11,8 +11,6 @@ import requests
 
 # -------------------- Configuration --------------------
 URLS: List[str] = [
-    "https://rag-api-807h.onrender.com/file_summary",
-    "https://eu-trade-scraper-api.onrender.com/",
     "https://cityquest.onrender.com/"
 ]
 
